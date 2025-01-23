@@ -1,0 +1,1 @@
+This python pipeline first converts video into frames (Each second may have 1-3 frames). Frames are basically screenshots. These frames are then sent to OCR for text recognition. A loop is run for all the frames. The Extracted text is appended and printed as output.
